@@ -19,6 +19,4 @@ We can now create instances of `<Box>` eithout any children:
 	<h2>Hello!</h2>
 	<p>This is a box. It can contain anything.</p>
 </Box>
-
-<Box/>
 ```
